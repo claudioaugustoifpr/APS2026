@@ -20,3 +20,23 @@ Modelo espiral
 Esse modelo é interativo e orientado a riscos e como o nome ja diz a espiral representa um ciclo completo de desenvolvimento, ele tem como principal funçao definir os objetivos propostos, analisar os riscos envolvidos, desenvolver os codigos e testa-los, ter um feedback com o cliente e assim repitir esse ciclo ate o fim do projeto as vantagens desse modelo são o gerenciamento de riscos eficas a flexibilidade e a qualidade do software as desvantagens são o alto custo, dependencia de analise e a complexidade no gerenciamnto. 
 
 Cite metodologias ágeis.
+Scrum
+Trabalha com ciclos curtos chamados sprints (geralmente 1–4 semanas).
+Papéis principais: Product Owner, Scrum Master e Time de Desenvolvimento.
+
+Kanban
+Baseado em fluxo contínuo de trabalho.
+Usa um quadro Kanban com colunas (ex.: A fazer, Em andamento, Concluído).
+Limita o número de tarefas em andamento (WIP – Work In Progress).
+
+Extreme Programming (XP)
+Focado em qualidade de código e práticas de engenharia.
+
+Lean Software Development
+Inspirado no Lean Manufacturing da indústria. Princípios incluem: Eliminar desperdícios,Entregar rápido,Aprender continuamente e Respeitar as pessoas
+
+Crystal
+Conjunto de metodologias adaptáveis dependendo do tamanho da equipe e criticidade do projeto.
+
+Feature‑Driven Development (FDD)
+Orientado ao desenvolvimento baseado em funcionalidades (features).
