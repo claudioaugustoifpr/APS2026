@@ -12,21 +12,13 @@ Objetivo geral: entender como os usuários utilizam a biblioteca e identificar m
 
 # 1. Contexto da Biblioteca
 
-Palavras-chave: funcionamento, serviços, dificuldades, regras
-
 Pesquisar funcionamento de bibliotecas universitárias
 
 Identificar serviços: empréstimo, estudo, computadores, materiais digitais
 
 Observar dificuldades: encontrar livros, falta de espaço
 
-Verificar regras e informações disponíveis
-
-Resultado esperado: perguntas mais relevantes e direcionadas.
-
 # Participantes da Pesquisa
-
-Palavras-chave: usuários diretos, responsáveis, frequentes
 
 Estudantes, professores, usuários frequentes, bibliotecários
 
@@ -42,8 +34,6 @@ Priorizar quem usa ou trabalha na biblioteca
 
 # Objetivos da Pesquisa
 
-Palavras-chave: uso, ambiente, acervo, dificuldades, sugestões
-
 Como os estudantes utilizam a biblioteca
 
 Avaliar o ambiente de estudo
@@ -55,8 +45,6 @@ Identificar dificuldades dos usuários
 Coletar sugestões de melhorias
 
 # Técnicas de Coleta
-
-Palavras-chave: questionário, entrevista, vantagens, limitações
 
 Questionário:
 
@@ -76,8 +64,6 @@ Limitações: tempo maior, menos participantes
 
 # Instrumentos de Coleta
 
-Palavras-chave: perfil, frequência, atividades, avaliação, sugestões
-
 Questionário:
 
 Perguntas sobre: perfil, frequência, atividades, espaço físico, atendimento, acervo, sugestões
@@ -91,8 +77,6 @@ Usuários: frequência, atividades, facilidade em encontrar livros, conforto, go
 Bibliotecário: serviços mais procurados, dificuldades, planos de melhoria
 
 # Planejar a Aplicação
-
-Palavras-chave: local, horários, equipe, registro
 
 Definir local: biblioteca da faculdade
 
