@@ -12,6 +12,7 @@ As histórias de usuário ajudaram a definir funcionalidades como notificações
 
 As dificuldades apresentadas ao longo das aulas foram:
 
--  Pouco tempo de aula para apresentar resultados satisfatórios  
--  Dificuldade no entendimento das explicações do professor  
--  Tempo reduzido durante a semana e fins de semana para realização de atividades complexas  
+-  Pouco tempo de aula para apresentar resultados satisfatórios.  
+-  Dificuldade no entendimento das explicações do professor.  
+-  Tempo reduzido durante a semana e fins de semana para realização de atividades complexas.
+-  Demora na soluçao das atividades propostas.
